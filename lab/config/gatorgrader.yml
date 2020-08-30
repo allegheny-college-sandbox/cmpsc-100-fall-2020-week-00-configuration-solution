@@ -1,0 +1,11 @@
+---
+name: cmpsc-100-week-00-lab
+break: true
+indent: 4
+---
+
+Week 00 - Lab - The Maltese Python.ipynb:
+    ConfirmFileExists
+    MatchFileFragment --fragment "TODO" --count 0 --exact
+the_maltese_python.png:
+    ConfirmFileExists

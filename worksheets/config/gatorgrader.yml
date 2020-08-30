@@ -1,0 +1,29 @@
+---
+name: cmpsc-100-week-00-worksheets
+break: true
+indent: 4
+---
+
+Week 00 - Worksheet 0 - Securing your GitHub account.ipynb:
+    ConfirmFileExists
+    MatchFileFragment --fragment "* Remove this `TODO`" --count 0 --exact
+Week 00 - Worksheet 1 - "Cloning" a repository.ipynb:
+    ConfirmFileExists
+    MatchFileFragment --fragment "* Remove this `TODO`" --count 0 --exact
+Week 00 - Worksheet 2 - Terminal commands.ipynb:
+    ConfirmFileExists
+    MatchFileFragment --fragment "* Remove this `TODO`" --count 0 --exact
+Week 00 - Worksheet 3 - Markdown.ipynb:
+    ConfirmFileExists
+Week 00 - Worksheet 3 - Markdown.md:
+    ConfirmFileExists
+    CountMarkdownTags --tag "heading" --count 3
+    CountMarkdownTags --tag "list" --count 2
+    CountMarkdownTags --tag "image" --count 1
+    CountFileParagraphs --count 1
+Week 00 - Worksheet 4 - GatorGrader.ipynb:
+    ConfirmFileExists
+    MatchFileFragment --fragment "* Remove this `TODO`" --count 0 --exact
+Week 00 - Worksheet 5 - "Committing" to a repository.ipynb:
+    ConfirmFileExists
+    MatchFileFragment --fragment "* Remove this `TODO`" --count 0 --exact
