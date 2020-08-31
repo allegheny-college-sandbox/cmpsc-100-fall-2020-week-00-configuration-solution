@@ -7,6 +7,10 @@
 
 ---
 
+<div class="alert alert-block alert-info">
+These various parts of this assignment are important for making progress in the course. The various point values of the components reflect this.
+</div>
+
 |Type         |Point value |
 |-------------|------------|
 |Worksheets   |20 pts.     |
@@ -18,11 +22,48 @@
 
 ## Evaluation
 
+---
 
+This assignment will be evaluated according to the following guidelines.
 
-<div class="alert alert-block alert-info">
-These assignments are important for making progress in the course. Their point values reflect this significance.
-</div>
+### Worksheets
+
+#### Week 00 - Worksheet 0 - Securing your GitHub account
+
+* No `Remove this TODO` markers
+
+#### Week 00 - Worksheet 1 - "Cloning" a repository
+
+* No `Remove this TODO` markers
+
+#### Week 00 - Worksheet 2 - Terminal commands
+
+* No `Remove this TODO` markers
+
+#### Week 00 - Worksheet 3 - Markdown.md:
+
+* Three (3) `heading`s
+* Two (2) `list`s
+* One (1) `image`
+* One (1) descriptive paragraph
+
+#### Week 00 - Worksheet 4 - GatorGrader
+
+* No `Remove this TODO` markers
+
+Week 00 - Worksheet 5 - "Committing" to a repository.ipynb:
+
+* No `Remove this TODO` markers
+
+### Lab
+
+* A complete `reflection.md` file
+* No `TODO` markers
+* `the_maltese_python.png` placed in `cage/` folder
+
+### Repository
+
+* At least one (1) additional `commit` made
   
 ## Assignment status
 
